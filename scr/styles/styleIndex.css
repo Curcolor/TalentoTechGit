@@ -14,6 +14,8 @@ table{
     background-color: #162D73;
     border-spacing: 5px;
     border-collapse:separate;
+    margin-left: auto;
+    margin-right: auto;
 }
 thead{
     color: #fff;
