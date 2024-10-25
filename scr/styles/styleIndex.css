@@ -1,0 +1,35 @@
+h1{
+
+    color: #C2A0F2;
+    padding: 20px;
+}
+header{
+    width: 100%;
+    overflow-x: hidden;
+    overflow-y: hidden;
+
+    background-color: #162D73;
+}
+table{
+    background-color: #162D73;
+    border-spacing: 5px;
+    border-collapse:separate;
+}
+thead{
+    color: #fff;
+    background-color: #C2A0F2; 
+}
+th{
+    padding: 10PX;
+}
+td{
+    padding: 10px;
+}
+tbody{
+    background-color: #f0f8ff;
+}
+footer{
+
+    background-color: #C2A0F2;
+    color: #162D73;
+}
